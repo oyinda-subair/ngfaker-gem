@@ -1,0 +1,32 @@
+# There are valid cases, for example debugging Cucumber steps,
+# also they'll fail CI anyway
+Lint/Debugger:
+  Enabled: false
+Lint/AmbiguousBlockAssociation:
+  Enabled: false
+Lint/UnifiedInteger:
+  Enabled: false
+
+Metrics/AbcSize:
+  Enabled: false
+Metrics/BlockLength:
+  Enabled: false
+Metrics/ClassLength:
+  Enabled: false
+Metrics/CyclomaticComplexity:
+  Enabled: false
+Metrics/LineLength:
+  Max: 80
+Metrics/MethodLength:
+  Enabled: false
+Metrics/PerceivedComplexity:
+  Enabled: false
+
+Style/DateTime:
+  Enabled: false
+Style/Documentation:
+  Enabled: false
+Style/For:
+  Enabled: false
+Style/RegexpLiteral:
+  Enabled: false

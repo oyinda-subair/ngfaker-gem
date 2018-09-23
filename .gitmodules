@@ -1,0 +1,3 @@
+[submodule "ng-faker"]
+	path = ng-faker
+	url = https://github.com/BolajiOlajide/ng-faker
